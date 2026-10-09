@@ -1,0 +1,23 @@
+# Install with: uv pip install -c requirements/constraints.txt -r requirements/base.txt \
+#   --extra-index-url https://download.pytorch.org/whl/cu126 --index-strategy unsafe-best-match
+torch==2.7.1
+torchaudio==2.7.1
+coqui-tts[languages]==0.27.5
+f5-tts==1.1.22
+kokoro==0.9.4
+piper-tts==1.8.0
+misaki[en]==0.9.4
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+transformers>=4.57,<4.58
+fastapi
+uvicorn[standard]
+python-multipart
+soundfile
+noisereduce==3.0.3
+librosa>=0.11,<0.12
+av
+num2words
+faster-whisper
+pytest
+httpx
+mcp==2.3.0

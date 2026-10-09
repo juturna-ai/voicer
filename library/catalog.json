@@ -1,0 +1,2960 @@
+{
+ "version": 1,
+ "voices": [
+  {
+   "id": "kokoro-af-heart",
+   "name": "Heart (Kokoro)",
+   "language": "en",
+   "accent": "American",
+   "gender": "female",
+   "engine": "kokoro",
+   "engine_voice": "af_heart",
+   "license": "Apache-2.0",
+   "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+   "commercial": true,
+   "source_url": "https://huggingface.co/hexgrad/Kokoro-82M",
+   "kind": "preset",
+   "tags": [
+    "news"
+   ],
+   "settings": {},
+   "age": "adult",
+   "description": "",
+   "estimated": [
+    "age",
+    "tags"
+   ],
+   "preview": "previews/kokoro-af-heart.mp3"
+  },
+  {
+   "id": "kokoro-af-bella",
+   "name": "Bella (Kokoro)",
+   "language": "en",
+   "accent": "American",
+   "gender": "female",
+   "engine": "kokoro",
+   "engine_voice": "af_bella",
+   "license": "Apache-2.0",
+   "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+   "commercial": true,
+   "source_url": "https://huggingface.co/hexgrad/Kokoro-82M",
+   "kind": "preset",
+   "tags": [
+    "news"
+   ],
+   "settings": {},
+   "age": "adult",
+   "description": "",
+   "estimated": [
+    "age",
+    "tags"
+   ],
+   "preview": "previews/kokoro-af-bella.mp3"
+  },
+  {
+   "id": "kokoro-af-nicole",
+   "name": "Nicole (Kokoro)",
+   "language": "en",
+   "accent": "American",
+   "gender": "female",
+   "engine": "kokoro",
+   "engine_voice": "af_nicole",
+   "license": "Apache-2.0",
+   "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+   "commercial": true,
+   "source_url": "https://huggingface.co/hexgrad/Kokoro-82M",
+   "kind": "preset",
+   "tags": [
+    "calm"
+   ],
+   "settings": {},
+   "age": "middle-aged",
+   "description": "",
+   "estimated": [
+    "age",
+    "tags"
+   ],
+   "preview": "previews/kokoro-af-nicole.mp3"
+  },
+  {
+   "id": "kokoro-af-aoede",
+   "name": "Aoede (Kokoro)",
+   "language": "en",
+   "accent": "American",
+   "gender": "female",
+   "engine": "kokoro",
+   "engine_voice": "af_aoede",
+   "license": "Apache-2.0",
+   "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+   "commercial": true,
+   "source_url": "https://huggingface.co/hexgrad/Kokoro-82M",
+   "kind": "preset",
+   "tags": [
+    "news",
+    "warm"
+   ],
+   "settings": {},
+   "age": "adult",
+   "description": "",
+   "estimated": [
+    "age",
+    "tags"
+   ],
+   "preview": "previews/kokoro-af-aoede.mp3"
+  },
+  {
+   "id": "kokoro-af-kore",
+   "name": "Kore (Kokoro)",
+   "language": "en",
+   "accent": "American",
+   "gender": "female",
+   "engine": "kokoro",
+   "engine_voice": "af_kore",
+   "license": "Apache-2.0",
+   "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+   "commercial": true,
+   "source_url": "https://huggingface.co/hexgrad/Kokoro-82M",
+   "kind": "preset",
+   "tags": [
+    "narrator",
+    "conversational"
+   ],
+   "settings": {},
+   "age": "middle-aged",
+   "description": "",
+   "estimated": [
+    "age",
+    "tags"
+   ],
+   "preview": "previews/kokoro-af-kore.mp3"
+  },
+  {
+   "id": "kokoro-af-sarah",
+   "name": "Sarah (Kokoro)",
+   "language": "en",
+   "accent": "American",
+   "gender": "female",
+   "engine": "kokoro",
+   "engine_voice": "af_sarah",
+   "license": "Apache-2.0",
+   "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+   "commercial": true,
+   "source_url": "https://huggingface.co/hexgrad/Kokoro-82M",
+   "kind": "preset",
+   "tags": [
+    "narrator",
+    "news"
+   ],
+   "settings": {},
+   "age": "adult",
+   "description": "",
+   "estimated": [
+    "age",
+    "tags"
+   ],
+   "preview": "previews/kokoro-af-sarah.mp3"
+  },
+  {
+   "id": "kokoro-am-michael",
+   "name": "Michael (Kokoro)",
+   "language": "en",
+   "accent": "American",
+   "gender": "male",
+   "engine": "kokoro",
+   "engine_voice": "am_michael",
+   "license": "Apache-2.0",
+   "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+   "commercial": true,
+   "source_url": "https://huggingface.co/hexgrad/Kokoro-82M",
+   "kind": "preset",
+   "tags": [
+    "conversational"
+   ],
+   "settings": {},
+   "age": "adult",
+   "description": "",
+   "estimated": [
+    "age",
+    "tags"
+   ],
+   "preview": "previews/kokoro-am-michael.mp3"
+  },
+  {
+   "id": "kokoro-am-fenrir",
+   "name": "Fenrir (Kokoro)",
+   "language": "en",
+   "accent": "American",
+   "gender": "male",
+   "engine": "kokoro",
+   "engine_voice": "am_fenrir",
+   "license": "Apache-2.0",
+   "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+   "commercial": true,
+   "source_url": "https://huggingface.co/hexgrad/Kokoro-82M",
+   "kind": "preset",
+   "tags": [
+    "narrator",
+    "conversational"
+   ],
+   "settings": {},
+   "age": "adult",
+   "description": "",
+   "estimated": [
+    "age",
+    "tags"
+   ],
+   "preview": "previews/kokoro-am-fenrir.mp3"
+  },
+  {
+   "id": "kokoro-am-puck",
+   "name": "Puck (Kokoro)",
+   "language": "en",
+   "accent": "American",
+   "gender": "male",
+   "engine": "kokoro",
+   "engine_voice": "am_puck",
+   "license": "Apache-2.0",
+   "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+   "commercial": true,
+   "source_url": "https://huggingface.co/hexgrad/Kokoro-82M",
+   "kind": "preset",
+   "tags": [
+    "narrator",
+    "conversational"
+   ],
+   "settings": {},
+   "age": "adult",
+   "description": "",
+   "estimated": [
+    "age",
+    "tags"
+   ],
+   "preview": "previews/kokoro-am-puck.mp3"
+  },
+  {
+   "id": "kokoro-bf-emma",
+   "name": "Emma (Kokoro)",
+   "language": "en",
+   "accent": "British",
+   "gender": "female",
+   "engine": "kokoro",
+   "engine_voice": "bf_emma",
+   "license": "Apache-2.0",
+   "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+   "commercial": true,
+   "source_url": "https://huggingface.co/hexgrad/Kokoro-82M",
+   "kind": "preset",
+   "tags": [
+    "news"
+   ],
+   "settings": {},
+   "age": "adult",
+   "description": "",
+   "estimated": [
+    "age",
+    "tags"
+   ],
+   "preview": "previews/kokoro-bf-emma.mp3"
+  },
+  {
+   "id": "kokoro-bf-isabella",
+   "name": "Isabella (Kokoro)",
+   "language": "en",
+   "accent": "British",
+   "gender": "female",
+   "engine": "kokoro",
+   "engine_voice": "bf_isabella",
+   "license": "Apache-2.0",
+   "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+   "commercial": true,
+   "source_url": "https://huggingface.co/hexgrad/Kokoro-82M",
+   "kind": "preset",
+   "tags": [
+    "news"
+   ],
+   "settings": {},
+   "age": "adult",
+   "description": "",
+   "estimated": [
+    "age",
+    "tags"
+   ],
+   "preview": "previews/kokoro-bf-isabella.mp3"
+  },
+  {
+   "id": "kokoro-bm-george",
+   "name": "George (Kokoro)",
+   "language": "en",
+   "accent": "British",
+   "gender": "male",
+   "engine": "kokoro",
+   "engine_voice": "bm_george",
+   "license": "Apache-2.0",
+   "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+   "commercial": true,
+   "source_url": "https://huggingface.co/hexgrad/Kokoro-82M",
+   "kind": "preset",
+   "tags": [
+    "calm",
+    "conversational"
+   ],
+   "settings": {},
+   "age": "adult",
+   "description": "",
+   "estimated": [
+    "age",
+    "tags"
+   ],
+   "preview": "previews/kokoro-bm-george.mp3"
+  },
+  {
+   "id": "kokoro-ef-dora",
+   "name": "Dora (Kokoro)",
+   "language": "es",
+   "accent": "Spain",
+   "gender": "female",
+   "engine": "kokoro",
+   "engine_voice": "ef_dora",
+   "license": "Apache-2.0",
+   "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+   "commercial": true,
+   "source_url": "https://huggingface.co/hexgrad/Kokoro-82M",
+   "kind": "preset",
+   "tags": [
+    "narrator",
+    "news"
+   ],
+   "settings": {},
+   "age": "middle-aged",
+   "description": "",
+   "estimated": [
+    "age",
+    "tags"
+   ],
+   "preview": "previews/kokoro-ef-dora.mp3"
+  },
+  {
+   "id": "kokoro-em-alex",
+   "name": "Alex (Kokoro)",
+   "language": "es",
+   "accent": "Spain",
+   "gender": "male",
+   "engine": "kokoro",
+   "engine_voice": "em_alex",
+   "license": "Apache-2.0",
+   "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+   "commercial": true,
+   "source_url": "https://huggingface.co/hexgrad/Kokoro-82M",
+   "kind": "preset",
+   "tags": [
+    "narrator"
+   ],
+   "settings": {},
+   "age": "adult",
+   "description": "",
+   "estimated": [
+    "age",
+    "tags"
+   ],
+   "preview": "previews/kokoro-em-alex.mp3"
+  },
+  {
+   "id": "kokoro-em-santa",
+   "name": "Santa (Kokoro)",
+   "language": "es",
+   "accent": "Spain",
+   "gender": "male",
+   "engine": "kokoro",
+   "engine_voice": "em_santa",
+   "license": "Apache-2.0",
+   "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+   "commercial": true,
+   "source_url": "https://huggingface.co/hexgrad/Kokoro-82M",
+   "kind": "preset",
+   "tags": [
+    "narrator",
+    "conversational"
+   ],
+   "settings": {},
+   "age": "adult",
+   "description": "",
+   "estimated": [
+    "age",
+    "tags"
+   ],
+   "preview": "previews/kokoro-em-santa.mp3"
+  },
+  {
+   "id": "piper-es-mx-ald-medium",
+   "name": "Ald (Piper)",
+   "language": "es",
+   "accent": "Mexican",
+   "engine": "piper",
+   "engine_voice": "es_MX-ald-medium",
+   "settings": {},
+   "license": "Unlicense; model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://unlicense.org",
+   "commercial": true,
+   "source_url": "https://huggingface.co/datasets/rmcpantoja/Ald_Mexican_Spanish_speech_dataset",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/es/es_MX/ald/medium",
+   "kind": "preset",
+   "tags": [
+    "calm",
+    "warm"
+   ],
+   "age": "middle-aged",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-es-mx-ald-medium.mp3"
+  },
+  {
+   "id": "piper-es-mx-claude-high",
+   "name": "Claude (Piper)",
+   "language": "es",
+   "accent": "Mexican",
+   "engine": "piper",
+   "engine_voice": "es_MX-claude-high",
+   "settings": {},
+   "license": "Apache-2.0; model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+   "commercial": true,
+   "source_url": "https://huggingface.co/spaces/HirCoir/Piper-TTS-Spanish",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/es/es_MX/claude/high",
+   "kind": "preset",
+   "tags": [
+    "calm"
+   ],
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-es-mx-claude-high.mp3"
+  },
+  {
+   "id": "piper-es-ar-daniela-high",
+   "name": "Daniela (Piper)",
+   "language": "es",
+   "accent": "Argentine",
+   "engine": "piper",
+   "engine_voice": "es_AR-daniela-high",
+   "settings": {},
+   "license": "CC-BY-SA-4.0; model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "commercial": true,
+   "source_url": "https://www.openslr.org/61/",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/es/es_AR/daniela/high",
+   "kind": "preset",
+   "tags": [
+    "news",
+    "warm"
+   ],
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-es-ar-daniela-high.mp3"
+  },
+  {
+   "id": "piper-es-es-davefx-medium",
+   "name": "Davefx (Piper)",
+   "language": "es",
+   "accent": "Spain",
+   "engine": "piper",
+   "engine_voice": "es_ES-davefx-medium",
+   "settings": {},
+   "license": "CC0-1.0; model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "commercial": true,
+   "source_url": "https://github.com/OHF-Voice/voice-datasets",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/es/es_ES/davefx/medium",
+   "kind": "preset",
+   "tags": [
+    "news"
+   ],
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-es-es-davefx-medium.mp3"
+  },
+  {
+   "id": "piper-es-es-sharvard-medium-0",
+   "name": "Sharvard A (Piper)",
+   "language": "es",
+   "accent": "Spain",
+   "engine": "piper",
+   "engine_voice": "es_ES-sharvard-medium",
+   "settings": {
+    "speaker_id": 0
+   },
+   "license": "CC-BY-3.0; model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "commercial": true,
+   "source_url": "https://datashare.ed.ac.uk/handle/10283/574",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/es/es_ES/sharvard/medium",
+   "kind": "preset",
+   "tags": [
+    "calm",
+    "narrator",
+    "conversational"
+   ],
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-es-es-sharvard-medium-0.mp3"
+  },
+  {
+   "id": "piper-es-es-sharvard-medium-1",
+   "name": "Sharvard B (Piper)",
+   "language": "es",
+   "accent": "Spain",
+   "engine": "piper",
+   "engine_voice": "es_ES-sharvard-medium",
+   "settings": {
+    "speaker_id": 1
+   },
+   "license": "CC-BY-3.0; model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://creativecommons.org/licenses/by/3.0/",
+   "commercial": true,
+   "source_url": "https://datashare.ed.ac.uk/handle/10283/574",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/es/es_ES/sharvard/medium",
+   "kind": "preset",
+   "tags": [
+    "calm",
+    "warm"
+   ],
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-es-es-sharvard-medium-1.mp3"
+  },
+  {
+   "id": "piper-es-es-carlfm-x-low",
+   "name": "Carlfm (Piper)",
+   "language": "es",
+   "accent": "Spain",
+   "engine": "piper",
+   "engine_voice": "es_ES-carlfm-x_low",
+   "settings": {},
+   "license": "Public domain; model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://github.com/carlfm01/my-speech-datasets",
+   "commercial": true,
+   "source_url": "https://github.com/carlfm01/my-speech-datasets",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/es/es_ES/carlfm/x_low",
+   "kind": "preset",
+   "tags": [
+    "news",
+    "warm"
+   ],
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-es-es-carlfm-x-low.mp3"
+  },
+  {
+   "id": "piper-es-es-mls-9972-low",
+   "name": "MLS 9972 (Piper)",
+   "language": "es",
+   "accent": "Spain",
+   "engine": "piper",
+   "engine_voice": "es_ES-mls_9972-low",
+   "settings": {},
+   "license": "CC-BY-4.0; model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "commercial": true,
+   "source_url": "http://www.openslr.org/94/",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/es/es_ES/mls_9972/low",
+   "kind": "preset",
+   "tags": [
+    "calm"
+   ],
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-es-es-mls-9972-low.mp3"
+  },
+  {
+   "id": "piper-es-es-mls-10246-low",
+   "name": "MLS 10246 (Piper)",
+   "language": "es",
+   "accent": "Spain",
+   "engine": "piper",
+   "engine_voice": "es_ES-mls_10246-low",
+   "settings": {},
+   "license": "CC-BY-4.0; model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "commercial": true,
+   "source_url": "http://www.openslr.org/94/",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/es/es_ES/mls_10246/low",
+   "kind": "preset",
+   "tags": [
+    "calm",
+    "conversational"
+   ],
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-es-es-mls-10246-low.mp3"
+  },
+  {
+   "id": "piper-en-us-lessac-medium",
+   "name": "Lessac (Piper)",
+   "language": "en",
+   "accent": "American",
+   "engine": "piper",
+   "engine_voice": "en_US-lessac-medium",
+   "settings": {},
+   "license": "Blizzard 2013 Lessac license (non-commercial); model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://www.cstr.ed.ac.uk/projects/blizzard/2013/lessac_blizzard2013/license.html",
+   "commercial": false,
+   "source_url": "https://www.cstr.ed.ac.uk/projects/blizzard/2013/lessac_blizzard2013/",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_US/lessac/medium",
+   "kind": "preset",
+   "tags": [
+    "narrator",
+    "conversational"
+   ],
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-en-us-lessac-medium.mp3"
+  },
+  {
+   "id": "piper-en-us-joe-medium",
+   "name": "Joe (Piper)",
+   "language": "en",
+   "accent": "American",
+   "engine": "piper",
+   "engine_voice": "en_US-joe-medium",
+   "settings": {},
+   "license": "CC0-1.0; model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "commercial": true,
+   "source_url": "https://github.com/OHF-Voice/voice-datasets",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_US/joe/medium",
+   "kind": "preset",
+   "tags": [
+    "news"
+   ],
+   "age": "middle-aged",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-en-us-joe-medium.mp3"
+  },
+  {
+   "id": "piper-en-us-mike-medium",
+   "name": "Mike (Piper)",
+   "language": "en",
+   "accent": "American",
+   "engine": "piper",
+   "engine_voice": "en_US-mike-medium",
+   "settings": {},
+   "license": "CC0-1.0; model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "commercial": true,
+   "source_url": "https://github.com/OHF-Voice/voice-datasets",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_US/mike/medium",
+   "kind": "preset",
+   "tags": [
+    "news",
+    "warm"
+   ],
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-en-us-mike-medium.mp3"
+  },
+  {
+   "id": "piper-en-us-kathleen-low",
+   "name": "Kathleen (Piper)",
+   "language": "en",
+   "accent": "American",
+   "engine": "piper",
+   "engine_voice": "en_US-kathleen-low",
+   "settings": {},
+   "license": "CC0-1.0; model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "commercial": true,
+   "source_url": "https://github.com/rhasspy/dataset-voice-kathleen",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_US/kathleen/low",
+   "kind": "preset",
+   "tags": [
+    "calm",
+    "warm"
+   ],
+   "age": "middle-aged",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-en-us-kathleen-low.mp3"
+  },
+  {
+   "id": "piper-en-us-kristin-medium",
+   "name": "Kristin (Piper)",
+   "language": "en",
+   "accent": "American",
+   "engine": "piper",
+   "engine_voice": "en_US-kristin-medium",
+   "settings": {},
+   "license": "Public domain (LibriVox); model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://librivox.org/pages/public-domain/",
+   "commercial": true,
+   "source_url": "https://brycebeattie.com/files/tts/",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_US/kristin/medium",
+   "kind": "preset",
+   "tags": [
+    "calm",
+    "warm"
+   ],
+   "age": "middle-aged",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-en-us-kristin-medium.mp3"
+  },
+  {
+   "id": "piper-en-us-ljspeech-high",
+   "name": "LJ (Piper)",
+   "language": "en",
+   "accent": "American",
+   "engine": "piper",
+   "engine_voice": "en_US-ljspeech-high",
+   "settings": {},
+   "license": "Public domain; model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://keithito.com/LJ-Speech-Dataset/",
+   "commercial": true,
+   "source_url": "https://keithito.com/LJ-Speech-Dataset/",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_US/ljspeech/high",
+   "kind": "preset",
+   "tags": [
+    "calm"
+   ],
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-en-us-ljspeech-high.mp3"
+  },
+  {
+   "id": "piper-en-us-norman-medium",
+   "name": "Norman (Piper)",
+   "language": "en",
+   "accent": "American",
+   "engine": "piper",
+   "engine_voice": "en_US-norman-medium",
+   "settings": {},
+   "license": "Public domain (LibriVox); model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://librivox.org/pages/public-domain/",
+   "commercial": true,
+   "source_url": "https://brycebeattie.com/files/tts/",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_US/norman/medium",
+   "kind": "preset",
+   "tags": [
+    "energetic",
+    "narrator",
+    "conversational"
+   ],
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-en-us-norman-medium.mp3"
+  },
+  {
+   "id": "piper-en-us-john-medium",
+   "name": "John (Piper)",
+   "language": "en",
+   "accent": "American",
+   "engine": "piper",
+   "engine_voice": "en_US-john-medium",
+   "settings": {},
+   "license": "Public domain (LibriVox); model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://librivox.org/pages/public-domain/",
+   "commercial": true,
+   "source_url": "https://brycebeattie.com/files/tts/",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_US/john/medium",
+   "kind": "preset",
+   "tags": [
+    "calm"
+   ],
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-en-us-john-medium.mp3"
+  },
+  {
+   "id": "piper-en-us-bryce-medium",
+   "name": "Bryce (Piper)",
+   "language": "en",
+   "accent": "American",
+   "engine": "piper",
+   "engine_voice": "en_US-bryce-medium",
+   "settings": {},
+   "license": "Public domain; model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://brycebeattie.com/files/tts/",
+   "commercial": true,
+   "source_url": "https://brycebeattie.com/files/tts/",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_US/bryce/medium",
+   "kind": "preset",
+   "tags": [
+    "calm"
+   ],
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-en-us-bryce-medium.mp3"
+  },
+  {
+   "id": "piper-en-us-sam-medium",
+   "name": "Sam (Piper)",
+   "language": "en",
+   "accent": "American",
+   "engine": "piper",
+   "engine_voice": "en_US-sam-medium",
+   "settings": {},
+   "license": "Apache-2.0; model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+   "commercial": true,
+   "source_url": "https://github.com/Sam-Accenture-Non-Binary-Voice/non-binary-voice-files",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_US/sam/medium",
+   "kind": "preset",
+   "tags": [
+    "calm",
+    "warm"
+   ],
+   "age": "middle-aged",
+   "gender": "neutral",
+   "description": "",
+   "estimated": [
+    "age",
+    "tags"
+   ],
+   "preview": "previews/piper-en-us-sam-medium.mp3"
+  },
+  {
+   "id": "piper-en-us-ryan-high",
+   "name": "Ryan (Piper)",
+   "language": "en",
+   "accent": "American",
+   "engine": "piper",
+   "engine_voice": "en_US-ryan-high",
+   "settings": {},
+   "license": "CC-BY-NC-SA-4.0; model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+   "commercial": false,
+   "source_url": "https://www.kaggle.com/datasets/roholazandie/ryanspeech",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_US/ryan/high",
+   "kind": "preset",
+   "tags": [
+    "energetic",
+    "narrator",
+    "conversational"
+   ],
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-en-us-ryan-high.mp3"
+  },
+  {
+   "id": "piper-en-us-hfc-female-medium",
+   "name": "HFC Female (Piper)",
+   "language": "en",
+   "accent": "American",
+   "engine": "piper",
+   "engine_voice": "en_US-hfc_female-medium",
+   "settings": {},
+   "license": "CC-BY-NC-SA-4.0; model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+   "commercial": false,
+   "source_url": "https://ast-astrec.nict.go.jp/en/release/hi-fi-captain/",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_US/hfc_female/medium",
+   "kind": "preset",
+   "tags": [
+    "narrator",
+    "conversational"
+   ],
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-en-us-hfc-female-medium.mp3"
+  },
+  {
+   "id": "piper-en-us-hfc-male-medium",
+   "name": "HFC Male (Piper)",
+   "language": "en",
+   "accent": "American",
+   "engine": "piper",
+   "engine_voice": "en_US-hfc_male-medium",
+   "settings": {},
+   "license": "CC-BY-NC-SA-4.0; model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+   "commercial": false,
+   "source_url": "https://ast-astrec.nict.go.jp/en/release/hi-fi-captain/",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_US/hfc_male/medium",
+   "kind": "preset",
+   "tags": [
+    "narrator",
+    "conversational"
+   ],
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-en-us-hfc-male-medium.mp3"
+  },
+  {
+   "id": "piper-en-gb-cori-high",
+   "name": "Cori (Piper)",
+   "language": "en",
+   "accent": "British",
+   "engine": "piper",
+   "engine_voice": "en_GB-cori-high",
+   "settings": {},
+   "license": "Public domain (LibriVox); model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://librivox.org/pages/public-domain/",
+   "commercial": true,
+   "source_url": "https://brycebeattie.com/files/tts/",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_GB/cori/high",
+   "kind": "preset",
+   "tags": [
+    "calm",
+    "news"
+   ],
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-en-gb-cori-high.mp3"
+  },
+  {
+   "id": "piper-en-gb-alba-medium",
+   "name": "Alba (Piper)",
+   "language": "en",
+   "accent": "Scottish",
+   "engine": "piper",
+   "engine_voice": "en_GB-alba-medium",
+   "settings": {},
+   "license": "CC-BY-4.0; model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://creativecommons.org/licenses/by/4.0/",
+   "commercial": true,
+   "source_url": "https://datashare.ed.ac.uk/handle/10283/3270",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_GB/alba/medium",
+   "kind": "preset",
+   "tags": [
+    "news"
+   ],
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-en-gb-alba-medium.mp3"
+  },
+  {
+   "id": "piper-en-gb-northern-english-male-medium",
+   "name": "Northern English Male (Piper)",
+   "language": "en",
+   "accent": "Northern English",
+   "engine": "piper",
+   "engine_voice": "en_GB-northern_english_male-medium",
+   "settings": {},
+   "license": "CC-BY-SA-4.0; model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "commercial": true,
+   "source_url": "http://www.openslr.org/83/",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_GB/northern_english_male/medium",
+   "kind": "preset",
+   "tags": [
+    "news",
+    "warm"
+   ],
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-en-gb-northern-english-male-medium.mp3"
+  },
+  {
+   "id": "piper-en-gb-southern-english-female-low",
+   "name": "Southern English Female (Piper)",
+   "language": "en",
+   "accent": "Southern English",
+   "engine": "piper",
+   "engine_voice": "en_GB-southern_english_female-low",
+   "settings": {},
+   "license": "CC-BY-SA-4.0; model: Piper voice (rhasspy/piper-voices)",
+   "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "commercial": true,
+   "source_url": "http://www.openslr.org/83/",
+   "model_url": "https://huggingface.co/rhasspy/piper-voices/tree/main/en/en_GB/southern_english_female/low",
+   "kind": "preset",
+   "tags": [
+    "energetic"
+   ],
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/piper-en-gb-southern-english-female-low.mp3"
+  },
+  {
+   "id": "xtts-claribel-dervla",
+   "name": "Claribel Dervla (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Claribel Dervla",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "calm",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-claribel-dervla.mp3"
+  },
+  {
+   "id": "xtts-daisy-studious",
+   "name": "Daisy Studious (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Daisy Studious",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "news"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-daisy-studious.mp3"
+  },
+  {
+   "id": "xtts-gracie-wise",
+   "name": "Gracie Wise (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Gracie Wise",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "narrator"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-gracie-wise.mp3"
+  },
+  {
+   "id": "xtts-tammie-ema",
+   "name": "Tammie Ema (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Tammie Ema",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "energetic",
+    "conversational"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-tammie-ema.mp3"
+  },
+  {
+   "id": "xtts-alison-dietlinde",
+   "name": "Alison Dietlinde (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Alison Dietlinde",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "news",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-alison-dietlinde.mp3"
+  },
+  {
+   "id": "xtts-ana-florence",
+   "name": "Ana Florence (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Ana Florence",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "narrator",
+    "conversational",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "middle-aged",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-ana-florence.mp3"
+  },
+  {
+   "id": "xtts-annmarie-nele",
+   "name": "Annmarie Nele (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Annmarie Nele",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "calm",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-annmarie-nele.mp3"
+  },
+  {
+   "id": "xtts-asya-anara",
+   "name": "Asya Anara (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Asya Anara",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "calm",
+    "conversational"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-asya-anara.mp3"
+  },
+  {
+   "id": "xtts-brenda-stern",
+   "name": "Brenda Stern (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Brenda Stern",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "energetic",
+    "conversational"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-brenda-stern.mp3"
+  },
+  {
+   "id": "xtts-gitta-nikolina",
+   "name": "Gitta Nikolina (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Gitta Nikolina",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "news"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-gitta-nikolina.mp3"
+  },
+  {
+   "id": "xtts-henriette-usha",
+   "name": "Henriette Usha (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Henriette Usha",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "calm",
+    "conversational"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-henriette-usha.mp3"
+  },
+  {
+   "id": "xtts-sofia-hellen",
+   "name": "Sofia Hellen (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Sofia Hellen",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "narrator",
+    "conversational"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "middle-aged",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-sofia-hellen.mp3"
+  },
+  {
+   "id": "xtts-tammy-grit",
+   "name": "Tammy Grit (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Tammy Grit",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "narrator",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "middle-aged",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-tammy-grit.mp3"
+  },
+  {
+   "id": "xtts-tanja-adelina",
+   "name": "Tanja Adelina (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Tanja Adelina",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "energetic",
+    "conversational",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-tanja-adelina.mp3"
+  },
+  {
+   "id": "xtts-vjollca-johnnie",
+   "name": "Vjollca Johnnie (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Vjollca Johnnie",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "narrator",
+    "conversational",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-vjollca-johnnie.mp3"
+  },
+  {
+   "id": "xtts-andrew-chipper",
+   "name": "Andrew Chipper (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Andrew Chipper",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "calm",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-andrew-chipper.mp3"
+  },
+  {
+   "id": "xtts-badr-odhiambo",
+   "name": "Badr Odhiambo (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Badr Odhiambo",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "calm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-badr-odhiambo.mp3"
+  },
+  {
+   "id": "xtts-dionisio-schuyler",
+   "name": "Dionisio Schuyler (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Dionisio Schuyler",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "calm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "middle-aged",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-dionisio-schuyler.mp3"
+  },
+  {
+   "id": "xtts-royston-min",
+   "name": "Royston Min (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Royston Min",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "calm",
+    "narrator",
+    "conversational"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-royston-min.mp3"
+  },
+  {
+   "id": "xtts-viktor-eka",
+   "name": "Viktor Eka (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Viktor Eka",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "energetic"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-viktor-eka.mp3"
+  },
+  {
+   "id": "xtts-abrahan-mack",
+   "name": "Abrahan Mack (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Abrahan Mack",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "narrator",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "middle-aged",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-abrahan-mack.mp3"
+  },
+  {
+   "id": "xtts-adde-michal",
+   "name": "Adde Michal (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Adde Michal",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "news",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "middle-aged",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-adde-michal.mp3"
+  },
+  {
+   "id": "xtts-baldur-sanjin",
+   "name": "Baldur Sanjin (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Baldur Sanjin",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "calm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "middle-aged",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-baldur-sanjin.mp3"
+  },
+  {
+   "id": "xtts-craig-gutsy",
+   "name": "Craig Gutsy (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Craig Gutsy",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "energetic",
+    "conversational"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-craig-gutsy.mp3"
+  },
+  {
+   "id": "xtts-damien-black",
+   "name": "Damien Black (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Damien Black",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "narrator",
+    "conversational",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-damien-black.mp3"
+  },
+  {
+   "id": "xtts-gilberto-mathias",
+   "name": "Gilberto Mathias (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Gilberto Mathias",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "calm",
+    "narrator",
+    "conversational"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-gilberto-mathias.mp3"
+  },
+  {
+   "id": "xtts-ilkin-urbano",
+   "name": "Ilkin Urbano (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Ilkin Urbano",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "narrator",
+    "conversational"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-ilkin-urbano.mp3"
+  },
+  {
+   "id": "xtts-kazuhiko-atallah",
+   "name": "Kazuhiko Atallah (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Kazuhiko Atallah",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "energetic"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-kazuhiko-atallah.mp3"
+  },
+  {
+   "id": "xtts-ludvig-milivoj",
+   "name": "Ludvig Milivoj (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Ludvig Milivoj",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "energetic",
+    "conversational",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-ludvig-milivoj.mp3"
+  },
+  {
+   "id": "xtts-suad-qasim",
+   "name": "Suad Qasim (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Suad Qasim",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "calm",
+    "conversational",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-suad-qasim.mp3"
+  },
+  {
+   "id": "xtts-torcull-diarmuid",
+   "name": "Torcull Diarmuid (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Torcull Diarmuid",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "narrator",
+    "conversational"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-torcull-diarmuid.mp3"
+  },
+  {
+   "id": "xtts-viktor-menelaos",
+   "name": "Viktor Menelaos (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Viktor Menelaos",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "energetic",
+    "conversational"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-viktor-menelaos.mp3"
+  },
+  {
+   "id": "xtts-zacharie-aimilios",
+   "name": "Zacharie Aimilios (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Zacharie Aimilios",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "narrator",
+    "conversational",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-zacharie-aimilios.mp3"
+  },
+  {
+   "id": "xtts-nova-hogarth",
+   "name": "Nova Hogarth (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Nova Hogarth",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "energetic",
+    "conversational",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "middle-aged",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-nova-hogarth.mp3"
+  },
+  {
+   "id": "xtts-maja-ruoho",
+   "name": "Maja Ruoho (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Maja Ruoho",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "news",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-maja-ruoho.mp3"
+  },
+  {
+   "id": "xtts-uta-obando",
+   "name": "Uta Obando (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Uta Obando",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "news",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-uta-obando.mp3"
+  },
+  {
+   "id": "xtts-lidiya-szekeres",
+   "name": "Lidiya Szekeres (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Lidiya Szekeres",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "energetic",
+    "narrator"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-lidiya-szekeres.mp3"
+  },
+  {
+   "id": "xtts-chandra-macfarland",
+   "name": "Chandra MacFarland (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Chandra MacFarland",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "news",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-chandra-macfarland.mp3"
+  },
+  {
+   "id": "xtts-szofi-granger",
+   "name": "Szofi Granger (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Szofi Granger",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "calm",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-szofi-granger.mp3"
+  },
+  {
+   "id": "xtts-camilla-holmstrom",
+   "name": "Camilla Holmström (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Camilla Holmström",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "news"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-camilla-holmstrom.mp3"
+  },
+  {
+   "id": "xtts-lilya-stainthorpe",
+   "name": "Lilya Stainthorpe (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Lilya Stainthorpe",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "energetic",
+    "conversational"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-lilya-stainthorpe.mp3"
+  },
+  {
+   "id": "xtts-zofija-kendrick",
+   "name": "Zofija Kendrick (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Zofija Kendrick",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "news",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-zofija-kendrick.mp3"
+  },
+  {
+   "id": "xtts-narelle-moon",
+   "name": "Narelle Moon (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Narelle Moon",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "calm",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-narelle-moon.mp3"
+  },
+  {
+   "id": "xtts-barbora-maclean",
+   "name": "Barbora MacLean (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Barbora MacLean",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "news"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-barbora-maclean.mp3"
+  },
+  {
+   "id": "xtts-alexandra-hisakawa",
+   "name": "Alexandra Hisakawa (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Alexandra Hisakawa",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "calm",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-alexandra-hisakawa.mp3"
+  },
+  {
+   "id": "xtts-alma-maria",
+   "name": "Alma María (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Alma María",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "calm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-alma-maria.mp3"
+  },
+  {
+   "id": "xtts-rosemary-okafor",
+   "name": "Rosemary Okafor (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Rosemary Okafor",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "news",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-rosemary-okafor.mp3"
+  },
+  {
+   "id": "xtts-ige-behringer",
+   "name": "Ige Behringer (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Ige Behringer",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "calm",
+    "narrator",
+    "conversational"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-ige-behringer.mp3"
+  },
+  {
+   "id": "xtts-filip-traverse",
+   "name": "Filip Traverse (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Filip Traverse",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "calm",
+    "conversational",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-filip-traverse.mp3"
+  },
+  {
+   "id": "xtts-damjan-chapman",
+   "name": "Damjan Chapman (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Damjan Chapman",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "conversational"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-damjan-chapman.mp3"
+  },
+  {
+   "id": "xtts-wulf-carlevaro",
+   "name": "Wulf Carlevaro (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Wulf Carlevaro",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "calm",
+    "conversational"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-wulf-carlevaro.mp3"
+  },
+  {
+   "id": "xtts-aaron-dreschner",
+   "name": "Aaron Dreschner (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Aaron Dreschner",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "narrator"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "middle-aged",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-aaron-dreschner.mp3"
+  },
+  {
+   "id": "xtts-kumar-dahl",
+   "name": "Kumar Dahl (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Kumar Dahl",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "energetic",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "middle-aged",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-kumar-dahl.mp3"
+  },
+  {
+   "id": "xtts-eugenio-mataraci",
+   "name": "Eugenio Mataracı (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Eugenio Mataracı",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "calm",
+    "narrator",
+    "conversational"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-eugenio-mataraci.mp3"
+  },
+  {
+   "id": "xtts-ferran-simen",
+   "name": "Ferran Simen (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Ferran Simen",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "calm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-ferran-simen.mp3"
+  },
+  {
+   "id": "xtts-xavier-hayasaka",
+   "name": "Xavier Hayasaka (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Xavier Hayasaka",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "narrator",
+    "conversational"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "middle-aged",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-xavier-hayasaka.mp3"
+  },
+  {
+   "id": "xtts-luis-moray",
+   "name": "Luis Moray (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Luis Moray",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "narrator",
+    "conversational",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-luis-moray.mp3"
+  },
+  {
+   "id": "xtts-marcos-rudaski",
+   "name": "Marcos Rudaski (XTTS)",
+   "language": "en",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Marcos Rudaski",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "narrator"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-marcos-rudaski.mp3"
+  },
+  {
+   "id": "xtts-ana-florence-es",
+   "name": "Ana Florence (XTTS, Español)",
+   "language": "es",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Ana Florence",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "energetic",
+    "conversational",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "middle-aged",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-ana-florence-es.mp3"
+  },
+  {
+   "id": "xtts-sofia-hellen-es",
+   "name": "Sofia Hellen (XTTS, Español)",
+   "language": "es",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Sofia Hellen",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "energetic",
+    "conversational"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "middle-aged",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-sofia-hellen-es.mp3"
+  },
+  {
+   "id": "xtts-alma-maria-es",
+   "name": "Alma María (XTTS, Español)",
+   "language": "es",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Alma María",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "narrator"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-alma-maria-es.mp3"
+  },
+  {
+   "id": "xtts-gracie-wise-es",
+   "name": "Gracie Wise (XTTS, Español)",
+   "language": "es",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Gracie Wise",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "energetic"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "female",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-gracie-wise-es.mp3"
+  },
+  {
+   "id": "xtts-luis-moray-es",
+   "name": "Luis Moray (XTTS, Español)",
+   "language": "es",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Luis Moray",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "energetic",
+    "conversational",
+    "warm"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-luis-moray-es.mp3"
+  },
+  {
+   "id": "xtts-marcos-rudaski-es",
+   "name": "Marcos Rudaski (XTTS, Español)",
+   "language": "es",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Marcos Rudaski",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "energetic",
+    "conversational"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-marcos-rudaski-es.mp3"
+  },
+  {
+   "id": "xtts-gilberto-mathias-es",
+   "name": "Gilberto Mathias (XTTS, Español)",
+   "language": "es",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Gilberto Mathias",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "narrator",
+    "conversational"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-gilberto-mathias-es.mp3"
+  },
+  {
+   "id": "xtts-eugenio-mataraci-es",
+   "name": "Eugenio Mataracı (XTTS, Español)",
+   "language": "es",
+   "accent": "Neutral",
+   "engine": "xtts",
+   "engine_voice": "Eugenio Mataracı",
+   "license": "Coqui Public Model License 1.0.0 (non-commercial)",
+   "license_url": "https://coqui.ai/cpml",
+   "commercial": false,
+   "source_url": "https://huggingface.co/coqui/XTTS-v2",
+   "tags": [
+    "multilingual",
+    "narrator",
+    "conversational"
+   ],
+   "kind": "preset",
+   "settings": {},
+   "age": "adult",
+   "gender": "male",
+   "description": "",
+   "estimated": [
+    "age",
+    "gender",
+    "tags"
+   ],
+   "preview": "previews/xtts-eugenio-mataraci-es.mp3"
+  }
+ ]
+}

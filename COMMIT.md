@@ -1,0 +1,1 @@
+## Commit.md is a file that remind claude what vercel, github, supabase accounts are 
